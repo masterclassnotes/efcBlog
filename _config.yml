@@ -25,17 +25,17 @@ defaults:
       layout: "post"
 
 #### Pagination
-paginate: 6
+paginate: 20
 
 #### Site
-title : Ecom Fireside Chats
-tagline: New Perspective on E-Commerce
+title : Jekyll Jacman
+tagline: A fresh looking and responsive theme for Jekyll
 assets: /assets
 url:
-baseurl: ''
+baseurl:
 
 #### Language
-language: en    ## blog site languages: en, zh-CN, zh-TW, de
+language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
@@ -85,15 +85,15 @@ share_to: true #enable share-to buttons if true
 #### Author information
 author:
   name: yitao      ## e.g. wuchong Author name
-  intro_line1:  "Welcome to Ecom Fireside Chats Blog"    ## your introduction on the bottom of the page
-  intro_line2:  "The Hidden Gem in Dropshipping World"  ## the 2nd line
+  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
+  intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email: ecomfiresidechats@gmail.com
-  twitter: ecomwisdom
+  email:      ## e.g. imjark@gmail.com
+  twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
   github:     ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
@@ -110,9 +110,8 @@ toc:
 
 #### Links
 links:
-  Shopify: https://shopify.com
-  BlueHost: https://bluehost.com/track/ecomfiresidechats/
-  Rakuten: http://bit.ly/34Z11xT
+  码农圈: https://coderq.com
+  Jark's Blog: http://wuchong.me
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com
