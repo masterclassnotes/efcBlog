@@ -31,8 +31,8 @@ paginate: 20
 title : Ecom Fireside Chats
 tagline: A Fresh Look on E-Commerce
 assets: /assets
-url:
-baseurl:
+url: 
+baseurl: ''
 
 #### Language
 language: en    ## blog site languages: en, zh-CN, zh-TW, de
@@ -112,6 +112,8 @@ toc:
 links:
   Bluehost: https://bluehost.com/track/ecomfiresidechats/
   Rakuten: http://bit.ly/34Z11xT
+  Payonner: https://share.payoneer.com/nav/-1eAutnHlKXfsW2iBdHyFnW4uZE0Is94ZEMzHuUavhEN0SXjVl2RhZ7EfUYWXB31BIqe-tBnS3Uwpfoxk5Rvsw2
+
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com
